@@ -1,6 +1,6 @@
 import streamlit as st
+st.image("https://miro.medium.com/v2/resize:fit:1400/1*nJkU8Kh4r3H7pE1iRCoYkw.jpeg", caption="AI-Powered Streamlit App")
 
-st.image("https://www.aratek.co/uploads/images/news/how-ai-is-used-in-biometrics.jpg", caption="AI-Powered Streamlit App")
 
 import requests
 import json
