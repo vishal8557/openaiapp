@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://miro.medium.com/v2/resize:fit:1400/1*nJkU8Kh4r3H7pE1iRCoYkw.jpeg", caption="AI-Powered Streamlit App")
+st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fthefusioneer.com%2Fblog%2Fthe-future-of-ai-5-ai-advancements-to-expect-in-the-next-10-years%2F&psig=AOvVaw2Q_sfjyn8cNzea4vweJ0w5&ust=1738375901583000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiIooHxnosDFQAAAAAdAAAAABAE", caption="AI-Powered Streamlit App")
 
 
 import requests
