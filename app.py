@@ -1,5 +1,7 @@
-import streamlit as st st.image("st.image("https://www.aratek.co/uploads/images/news/how-ai-is-used-in-biometrics.jpg", caption="AI-Powered Streamlit App")
-", caption="AI-Powered Streamlit App")
+import streamlit as st
+
+st.image("https://www.aratek.co/uploads/images/news/how-ai-is-used-in-biometrics.jpg", caption="AI-Powered Streamlit App")
+
 import requests
 import json
 import base64
